@@ -22,6 +22,7 @@ Wszystko robimy w pliku o nazwie `SeleniumChrome.dll.config`
 * Po dokonaniu zmian należy zapisać plik.
 
 ## Uruchomienie
+* Aby program działał poprawnie musimy się upewnić, że w plikach programu znajduje się `../chromedriver/chromedriver.exe`, w przypadku jego braku można go pobrać ze strony [ChromeDriver.exe](https://chromedriver.chromium.org/downloads)
 * Otwieramy konsolę
 * Przez użycie komendy `cd` przechodzimy do folderu przez podanie ścieżki gdzie znajdują się pliki z programu np. ` cd dokumenty/folder1/folder2 `
 * Uruchomić program wpisujemy komendę `dotnet nazwaProgramu.dll` , lecz musimy pamiętać żeby znajdować się w odpowiednim folderze
