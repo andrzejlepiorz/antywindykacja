@@ -33,7 +33,6 @@ namespace Logic.Services
 
                 _driver = new ChromeDriver(@"..\netcoreapp2.2\chromedriver", _options);
                 Console.Clear();
-                Console.WriteLine(_address);
                 Console.WriteLine($"[{_address}] Odpalam przeglądarkę.");
             }
             catch (Exception ex)
