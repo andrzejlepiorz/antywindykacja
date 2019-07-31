@@ -23,7 +23,7 @@ Wszystko robimy w pliku o nazwie ` SeleniumChrome.dll.config `
 
 ## Uruchomienie
 * Otwieramy konsolę
-* Przez użycie komendy ` cd ` przechodzimy do folderu przez podanie ścieżki gdzie znajdują się pliki z programu np. ` cd dokumenty/folder1/folder2 `
+* Przez użycie komendy `cd` przechodzimy do folderu przez podanie ścieżki gdzie znajdują się pliki z programu np. ` cd dokumenty/folder1/folder2 `
 * Uruchomić program wpisujemy komendę ` dotnet nazwaProgramu.dll ` , lecz musimy pamiętać żeby znajdować się w odpowiednim folderze
 
 ## Działanie programu
