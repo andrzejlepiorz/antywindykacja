@@ -4,7 +4,7 @@
 * [Technologie](#technologie)
 * [Konfiguracja](#konfiguracja)
 * [Uruchomienie](#uruchomienie)
-* [Działanie programu](#dzialanie-programu)
+* [Działanie programu](#działanie-programu)
 * [Licencja](#licencja)
 
 ## Technologie
@@ -30,5 +30,5 @@ Wszystko robimy w pliku o nazwie 'SeleniumChrome.dll.config'.
 Po uruchomieniu program wybiera adres ip z podanych w pliku konfiguracyjnym ('SeleniumChrome.dll.config') na podstawie którego łączy się z przeglądarką. Następnie zostaje uruchomiony Google Chrome i jest wczytana strona google.pl, gdzie zostaje wpisana podana przez nas fraza. Po wczytaniu frazy jest szukana reklama z podanym przez nas tytułem. Gdy tytuł zostanie znaleziony to program załaduje nam stronę tej reklamy. Później program zamyka przeglądarkę i losuje kolejny adres ip z podanych po czym zaczyna powtarzać wszystkie procesy co na początku lecz już z innym adresem ip. Program tak będzie działał w kółko aż do godziny, która zakończy jego działanie i została podana w pliku konfiguracyjnym. 
 Jeżeli program nie znajdzie wybranego tytułu lub będzie miał problem z połączeniem to następują ponowne próby wyszukania lub połączenia. Jeżeli problem dalej będzie występował to nastąpią dwie kolejne próby w odstępie 60 sekund, w których program trzy razy będzie próbował sie połączyć, a gdy one nie przyniosą rezultatów, to przeglądarka jest zamykana i następuje próba połączenia z nowym losowo wybranym adresem ip.
 
-##Licencja
+## Licencja
 MIT
