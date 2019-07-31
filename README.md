@@ -13,7 +13,7 @@
 
 ## Konfiguracja
 Przed uruchomieniem programu powinniśmy sprawdzić czy jest on dobrze skonfigurowany. Bardzo ważne jest podanie godzin, w których program powinien działać oraz wpisanie odpowiedniej frazy do wyszukania w google i tytułu reklamy.
-Wszystko robimy w pliku o nazwie ' SeleniumChrome.dll.config '
+Wszystko robimy w pliku o nazwie ` SeleniumChrome.dll.config `
 * Dodawanie frazy: Wyszukujemy ' <add key="Phrase" value="nasza fraza"/> ', gdzie w 'value=""' podajemy naszą frazę.
 * Dodawanie tytułu: Wyszukujemy '<add key="Title" value="tytuł reklamy"/>', gdzie w 'value=""' podajemy tytuł reklamy.
 * Ustawienie godziny od której działa program: Wyszukujemy '<add key="HourFrom" value="8"/>', gdzie w 'value=""' podajemy pełną godzinę. Należy pamiętać o poprawnym formacie godziny z przedziału 0-23.
