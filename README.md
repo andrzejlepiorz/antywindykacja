@@ -25,7 +25,7 @@ Wszystko robimy w pliku o nazwie `SeleniumChrome.dll.config`
 * Aby program działał poprawnie musimy się upewnić, że w plikach programu znajduje się `../chromedriver/chromedriver.exe`, w przypadku jego braku plik [ChromeDriver.exe](https://chromedriver.chromium.org/downloads) można pobrać ze strony 
 * Otwieramy konsolę
 * Przez użycie komendy `cd` przechodzimy do folderu przez podanie ścieżki gdzie znajdują się pliki z programu np. ` cd dokumenty/folder1/folder2 `
-* Uruchomić program wpisujemy komendę `dotnet nazwaProgramu.dll` , lecz musimy pamiętać żeby znajdować się w odpowiednim folderze
+* Uruchomić program wpisujemy komendę `dotnet SeleniumChrome.dll` , lecz musimy pamiętać żeby znajdować się w odpowiednim folderze
 
 ## Działanie programu
 Po uruchomieniu program wybiera adres ip z podanych w pliku konfiguracyjnym (`SeleniumChrome.dll.config`) na podstawie którego łączy się z przeglądarką. Następnie zostaje uruchomiony Google Chrome i jest wczytana strona google.pl, gdzie zostaje wpisana podana przez nas fraza. Po wczytaniu frazy jest szukana reklama z podanym przez nas tytułem. Gdy tytuł zostanie znaleziony to program załaduje nam stronę tej reklamy. Później program zamyka przeglądarkę i losuje kolejny adres ip z podanych po czym zaczyna powtarzać wszystkie procesy co na początku lecz już z innym adresem ip. Program tak będzie działał w kółko aż do godziny, która zakończy jego działanie i została podana w pliku konfiguracyjnym. 
