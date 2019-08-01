@@ -23,7 +23,7 @@ Przykład: `<add key="HourFrom" value="8"/>`
 * Ustawienie godziny do której działa program: Wyszukujemy `<add key="HourTo" value=""/>`, gdzie w `value=""` podajemy pełną godzinę. Należy pamiętać o poprawnym formacie godziny z przedziału 0-23.<br/>
 Przykład: `<add key="HourTo" value="16"/>`
 * Dodawanie adresów ip proxy: Aby dodać adres ip to należy wpisać w sekcji <Addresses> `<add key="" value=""></add>`, gdzie w `key=""` wpisujemy nasz adres ip z proxy.<br/>
-Przykład: `<add key="192.166.219.46:3128" value=""></add>
+Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 * Po dokonaniu zmian należy zapisać plik.
 
 ## Uruchomienie
