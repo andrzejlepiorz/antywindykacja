@@ -22,6 +22,7 @@ Wszystko robimy w pliku o nazwie `SeleniumChrome.dll.config`
 * Po dokonaniu zmian należy zapisać plik.
 
 ## Uruchomienie
+* Program korzysta z przeglądarki [Google Chrome](https://www.google.com/intl/en/chrome/)
 * Aby program działał poprawnie musimy się upewnić, że w plikach programu znajduje się `../chromedriver/chromedriver.exe`, w przypadku jego braku plik [ChromeDriver.exe](https://chromedriver.chromium.org/downloads) można pobrać ze strony 
 * Otwieramy konsolę
 * Przez użycie komendy `cd` przechodzimy do folderu przez podanie ścieżki gdzie znajdują się pliki z programu np. ` cd dokumenty/folder1/folder2 `
