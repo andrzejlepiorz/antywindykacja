@@ -41,9 +41,9 @@ Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 Po uruchomieniu program wybiera adres IP z podanych w pliku konfiguracyjnym (`SeleniumChrome.dll.config`) na podstawie którego łączy się z przeglądarką. Następnie zostaje uruchomiony Google Chrome i jest wczytana strona google.pl<br/> 
 ![Google](images/imgGoogle.PNG) <br/>
 Następnie zostanie wczytana fraza <br/> 
-![Google Phrase](images/imgGooglePhrase.PNG) <br/>
+![Google Phrase](images/imgPhrase.PNG) <br/>
 Po wczytaniu frazy jest szukana reklama z podanym przez nas tytułem <br/>
-![Phrase Title](images/imgTitleAds.PNG) <br/>
+![Phrase Title](images/imgAdsTitle.PNG) <br/>
 Gdy tytuł zostanie znaleziony to program załaduje nam stronę tej reklamy. Później program zamyka przeglądarkę i losuje kolejny adres IP z podanych po czym zaczyna powtarzać wszystkie procesy co na początku lecz już z innym adresem IP. Program tak będzie działał w kółko aż do godziny, która zakończy jego działanie i została podana w pliku konfiguracyjnym. 
 
 ### Działanie programu w przypadku napotkania błędów
