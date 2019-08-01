@@ -14,7 +14,7 @@
 ## Konfiguracja
 Przed uruchomieniem programu powinniśmy sprawdzić czy jest on dobrze skonfigurowany. Bardzo ważne jest podanie godzin, w których program powinien działać oraz wpisanie odpowiedniej frazy do wyszukania w google i tytułu reklamy.
 Wszystko robimy w pliku o nazwie `SeleniumChrome.dll.config`
-* Dodawanie frazy: Wyszukujemy `<add key="Phrase" value=""/>`, gdzie w `value=""` podajemy naszą frazę.
+* Dodawanie frazy: Wyszukujemy `<add key="Phrase" value=""/>`, gdzie w `value=""` podajemy naszą frazę.<br/>
 Przykład: `<add key="Phrase" value="moja fraza"/>`
 * Dodawanie tytułu: Wyszukujemy `<add key="Title" value=""/>`, gdzie w `value=""` podajemy tytuł reklamy.
 Przykład: `<add key="Title" value="mój tytuł"/>`
