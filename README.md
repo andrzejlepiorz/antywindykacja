@@ -14,7 +14,6 @@
 
 ## O programie
 * Program korzysta z przeglądarki [Google Chrome](https://www.google.com/intl/en/chrome/)
-* Aby program działał poprawnie musimy się upewnić, że w plikach programu znajduje się `../chromedriver/chromedriver.exe`, w przypadku jego braku plik [ChromeDriver.exe](https://chromedriver.chromium.org/downloads) można pobrać ze strony 
 * Program działa prawidłowo tylko dla adresów IP proxy HTTP
 
 ## Konfiguracja
@@ -38,11 +37,11 @@ Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 * Uruchomić program wpisujemy komendę `dotnet SeleniumChrome.dll` , lecz musimy pamiętać żeby znajdować się w odpowiednim folderze
 
 ## Działanie programu
-Po uruchomieniu program wybiera adres IP z podanych w pliku konfiguracyjnym (`SeleniumChrome.dll.config`) na podstawie którego łączy się z przeglądarką. Następnie zostaje uruchomiony Google Chrome i jest wczytana strona google.pl<br/> 
+Po uruchomieniu program wybiera adres IP z podanych w pliku konfiguracyjnym (`SeleniumChrome.dll.config`) na podstawie którego łączy się z przeglądarką. Następnie zostaje uruchomiony Google Chrome i jest wczytana strona google.pl <br/> 
 ![Google](images/imgGoogle.PNG) <br/>
-Następnie zostanie wczytana fraza <br/> 
+Później zostanie wczytana frazam, którą wpisaliśmy w pliku konfiguracyjnym. <br/> 
 ![Google Phrase](images/imgPhrase.PNG) <br/>
-Po wczytaniu frazy jest szukana reklama z podanym przez nas tytułem <br/>
+Po wczytaniu frazy jest szukana reklama z podanym przez nas tytułem. <br/>
 ![Phrase Title](images/imgAdsTitle.PNG) <br/>
 Gdy tytuł zostanie znaleziony to program załaduje nam stronę tej reklamy. Później program zamyka przeglądarkę i losuje kolejny adres IP z podanych po czym zaczyna powtarzać wszystkie procesy co na początku lecz już z innym adresem IP. Program tak będzie działał w kółko aż do godziny, która zakończy jego działanie i została podana w pliku konfiguracyjnym. 
 
