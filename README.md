@@ -16,13 +16,13 @@ Przed uruchomieniem programu powinniśmy sprawdzić czy jest on dobrze skonfigur
 Wszystko robimy w pliku o nazwie `SeleniumChrome.dll.config`
 * Dodawanie frazy: Wyszukujemy `<add key="Phrase" value=""/>`, gdzie w `value=""` podajemy naszą frazę.<br/>
 Przykład: `<add key="Phrase" value="moja fraza"/>`
-* Dodawanie tytułu: Wyszukujemy `<add key="Title" value=""/>`, gdzie w `value=""` podajemy tytuł reklamy.
+* Dodawanie tytułu: Wyszukujemy `<add key="Title" value=""/>`, gdzie w `value=""` podajemy tytuł reklamy.<br/>
 Przykład: `<add key="Title" value="mój tytuł"/>`
-* Ustawienie godziny od której działa program: Wyszukujemy `<add key="HourFrom" value=""/>`, gdzie w `value=""` podajemy pełną godzinę. Należy pamiętać o poprawnym formacie godziny z przedziału 0-23.
+* Ustawienie godziny od której działa program: Wyszukujemy `<add key="HourFrom" value=""/>`, gdzie w `value=""` podajemy pełną godzinę. Należy pamiętać o poprawnym formacie godziny z przedziału 0-23.<br/>
 Przykład: `<add key="HourFrom" value="8"/>`
-* Ustawienie godziny do której działa program: Wyszukujemy `<add key="HourTo" value=""/>`, gdzie w `value=""` podajemy pełną godzinę. Należy pamiętać o poprawnym formacie godziny z przedziału 0-23.
+* Ustawienie godziny do której działa program: Wyszukujemy `<add key="HourTo" value=""/>`, gdzie w `value=""` podajemy pełną godzinę. Należy pamiętać o poprawnym formacie godziny z przedziału 0-23.<br/>
 Przykład: `<add key="HourTo" value="16"/>`
-* Dodawanie adresów ip proxy: Aby dodać adres ip to należy wpisać w sekcji <Addresses> `<add key="" value=""></add>`, gdzie w `key=""` wpisujemy nasz adres ip z proxy.
+* Dodawanie adresów ip proxy: Aby dodać adres ip to należy wpisać w sekcji <Addresses> `<add key="" value=""></add>`, gdzie w `key=""` wpisujemy nasz adres ip z proxy.<br/>
 Przykład: `<add key="192.166.219.46:3128" value=""></add>
 * Po dokonaniu zmian należy zapisać plik.
 
@@ -30,7 +30,7 @@ Przykład: `<add key="192.166.219.46:3128" value=""></add>
 * Program korzysta z przeglądarki [Google Chrome](https://www.google.com/intl/en/chrome/)
 * Aby program działał poprawnie musimy się upewnić, że w plikach programu znajduje się `../chromedriver/chromedriver.exe`, w przypadku jego braku plik [ChromeDriver.exe](https://chromedriver.chromium.org/downloads) można pobrać ze strony 
 * Otwieramy konsolę
-* Przez użycie komendy `cd` przechodzimy do folderu przez podanie ścieżki gdzie znajdują się pliki z programu np. ` cd dokumenty/folder1/folder2 `
+* Przez użycie komendy `cd` przechodzimy do folderu przez podanie ścieżki gdzie znajdują się pliki z programu np. `cd dokumenty/folder1/folder2`
 * Uruchomić program wpisujemy komendę `dotnet SeleniumChrome.dll` , lecz musimy pamiętać żeby znajdować się w odpowiednim folderze
 
 ## Działanie programu
