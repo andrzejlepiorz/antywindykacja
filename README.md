@@ -4,7 +4,9 @@
 * [Technologie](#technologie)
 * [O programie](#o-programie)
 * [Konfiguracja](#konfiguracja)
-* [Uruchomienie](#uruchomienie)
+* [Uruchomienie na Windows](#uruchomienie-na-windows)
+* [Uruchomienie na Ubuntu](#uruchomienie-na-ubuntu)
+* [Uruchomienie na MacOS](#uruchomienie-na-macos)
 * [Działanie programu](#działanie-programu)
 * [Licencja](#licencja)
 
@@ -32,13 +34,15 @@ Przykład: `<add key="HourTo" value="16"/>`
 Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 * Po dokonaniu zmian należy zapisać plik.
 
-## Uruchomienie
-* Otwieramy konsolę <br/>
-![Console](images/imgConsoleOpen.PNG) <br/>
-* Przez użycie komendy `cd` przechodzimy do folderu przez podanie ścieżki gdzie znajdują się pliki z programu np. `cd dokumenty/folder1/folder2` <br/>
-![ApplicationPath](images/imgConsolePath.PNG) <br/>
-* Uruchomić program wpisujemy komendę `dotnet SeleniumChrome.dll` , lecz musimy pamiętać żeby znajdować się w odpowiednim folderze <br/>
-![ApplicationRun](images/imgConsoleRunApp.PNG) <br/>
+## Uruchomienie na Windows
+* Otwieramy folder `Antywindykacja-Windows`
+* Uruchamiamy `SeleniumChrome.exe`
+
+## Uruchomienie na Ubuntu
+* Otwieramy folder `Antywindykacja-Ubuntu`
+
+## Uruchomienie na MacOS
+* Otwieramy folder `Antywindykacja-MacOS`
 
 ## Działanie programu
 Po uruchomieniu program wybiera adres IP z podanych w pliku konfiguracyjnym (`SeleniumChrome.dll.config`) na podstawie którego łączy się z przeglądarką. Następnie zostaje uruchomiony Google Chrome i jest wczytana strona google.pl <br/> 
