@@ -36,7 +36,7 @@ Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 
 ## Uruchomienie na Windows
 * Otwieramy folder `Antywindykacja-Windows`
-* Uruchamiamy `SeleniumChrome.exe`
+* Uruchamiamy `SeleniumChrome.exe` <br/>
 ![appWindows](images/appWindows.PNG) <br/>
 
 ## Uruchomienie na Ubuntu
