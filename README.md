@@ -13,7 +13,7 @@
 
 ## Technologie
 * .NET Core 2.2
-* Selenium 3
+* Selenium 3.141
 
 ## O programie
 Ustawić opis programu.
