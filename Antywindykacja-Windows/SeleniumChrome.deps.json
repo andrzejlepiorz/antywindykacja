@@ -1,12 +1,12 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v2.2/win10-x64",
+    "name": ".NETCoreApp,Version=v2.2/win-x64",
     "signature": "dc972d28e182c7acb5fba460a6735e20f6ddf319"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {},
-    ".NETCoreApp,Version=v2.2/win10-x64": {
+    ".NETCoreApp,Version=v2.2/win-x64": {
       "SeleniumChrome/1.0.0": {
         "dependencies": {
           "Common": "1.0.0",
