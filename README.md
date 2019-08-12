@@ -11,8 +11,8 @@
 * [Licencja](#licencja)
 
 ## Technologie
-* .NET Core 2.2.150
-* Selenium 3.141.0
+* .NET Core 2.2
+* Selenium 3
 
 ## O programie
 Ustawić opis programu.
