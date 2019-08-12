@@ -3652,11 +3652,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Common\\Common.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Common\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

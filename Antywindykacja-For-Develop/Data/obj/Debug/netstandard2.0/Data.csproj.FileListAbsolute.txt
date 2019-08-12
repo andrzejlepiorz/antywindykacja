@@ -34,3 +34,15 @@ C:\Users\lenovo\Documents\Antywindykacja\Data\obj\Debug\netstandard2.0\Data.Asse
 C:\Users\lenovo\Documents\Antywindykacja\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
 C:\Users\lenovo\Documents\Antywindykacja\Data\obj\Debug\netstandard2.0\Data.dll
 C:\Users\lenovo\Documents\Antywindykacja\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Data\bin\Debug\netstandard2.0\Common.dll
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Data\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Data\obj\Debug\netstandard2.0\Data.pdb

@@ -63,7 +63,9 @@ namespace Logic.Services
                 }
                 catch (NoSuchElementException)
                 {
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
                     Console.WriteLine($"[{_address}] Error: Nie znaleziono reklamy.");
+                    Console.ResetColor();
 
                     if (_ifNotExist == 3 && _repeatIfNotExist == 2)
                         _driver.Close();
@@ -79,8 +81,10 @@ namespace Logic.Services
                 }
                 catch (Exception ex)
                 {
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
                     Console.WriteLine($"[{_address}] Error: Nie znaleziono reklamy.");
                     Console.WriteLine($"Ooops wystąpił jakiś błąd: {ex.Message}");
+                    Console.ResetColor();
 
                     if (_ifNotExist == 3 && _repeatIfNotExist == 2)
                         _driver.Close();

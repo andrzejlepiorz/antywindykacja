@@ -4023,11 +4023,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\SeleniumChrome\\SeleniumChrome.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\SeleniumChrome\\SeleniumChrome.csproj",
       "projectName": "SeleniumChrome",
-      "projectPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\SeleniumChrome\\SeleniumChrome.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\SeleniumChrome\\SeleniumChrome.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\SeleniumChrome\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\SeleniumChrome\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4046,14 +4046,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Common\\Common.csproj"
+            "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\Common\\Common.csproj"
             },
-            "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Data\\Data.csproj"
+            "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\Data\\Data.csproj"
             },
-            "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Logic\\Logic.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Logic\\Logic.csproj"
+            "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\Logic\\Logic.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\Logic\\Logic.csproj"
             }
           }
         }

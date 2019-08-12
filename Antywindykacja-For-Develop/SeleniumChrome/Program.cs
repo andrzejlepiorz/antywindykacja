@@ -49,16 +49,22 @@ namespace SeleniumChrome
                 }
                 else
                 {
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
                     Console.WriteLine("Format godziny jest niepoprawny, podaj godzinę z przedziału od 0 do 23");
+                    Console.ResetColor();
                 }
             }
             catch(TypeInitializationException)
             {
+                Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine("Format godziny jest niepoprawny, podaj godzinę z przedziału od 0 do 23");
+                Console.ResetColor();
             }
             catch(Exception ex)
             {
+                Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine(ex.Message);
+                Console.ResetColor();
             }
             Console.ReadKey();
         }

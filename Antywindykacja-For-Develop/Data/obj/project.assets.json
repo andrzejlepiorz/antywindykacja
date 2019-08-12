@@ -3671,11 +3671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Data\\Data.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Data\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3694,8 +3694,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Common\\Common.csproj"
+            "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Documents\\Antywindykacja\\Antywindykacja-For-Develop\\Common\\Common.csproj"
             }
           }
         }

@@ -40,3 +40,17 @@ C:\Users\lenovo\Documents\Antywindykacja\Logic\obj\Debug\netstandard2.0\Logic.As
 C:\Users\lenovo\Documents\Antywindykacja\Logic\obj\Debug\netstandard2.0\Logic.csproj.CopyComplete
 C:\Users\lenovo\Documents\Antywindykacja\Logic\obj\Debug\netstandard2.0\Logic.dll
 C:\Users\lenovo\Documents\Antywindykacja\Logic\obj\Debug\netstandard2.0\Logic.pdb
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Logic\bin\Debug\netstandard2.0\Logic.deps.json
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Logic\bin\Debug\netstandard2.0\Logic.dll
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Logic\bin\Debug\netstandard2.0\Logic.pdb
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Logic\bin\Debug\netstandard2.0\Common.dll
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Logic\bin\Debug\netstandard2.0\Data.dll
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Logic\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Logic\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Logic\obj\Debug\netstandard2.0\Logic.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Logic\obj\Debug\netstandard2.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Logic\obj\Debug\netstandard2.0\Logic.csproj.CopyComplete
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Logic\obj\Debug\netstandard2.0\Logic.dll
+C:\Users\lenovo\Documents\Antywindykacja\Antywindykacja-For-Develop\Logic\obj\Debug\netstandard2.0\Logic.pdb
