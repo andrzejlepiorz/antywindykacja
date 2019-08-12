@@ -5,7 +5,7 @@
 * [O programie](#o-programie)
 * [Konfiguracja](#konfiguracja)
 * [Uruchomienie na Windows](#uruchomienie-na-windows)
-* [Uruchomienie na Ubuntu](#uruchomienie-na-ubuntu)
+* [Uruchomienie na Linux](#uruchomienie-na-linux)
 * [Uruchomienie na MacOS](#uruchomienie-na-macos)
 * [Działanie programu](#działanie-programu)
 * [Licencja](#licencja)
@@ -41,8 +41,8 @@ Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 * W przypadku pojawienia się komunikatu `Program uruchomi się o godzinie` to aplikacja uruchomi się automatycznie o zadanej przez nas godzinie <br/>
 ![appBeforeRunTime](images/imgConsoleBeforeRunTime.PNG) <br/>
 
-## Uruchomienie na Ubuntu
-* Otwieramy folder `Antywindykacja-Ubuntu`
+## Uruchomienie na Linux
+* Otwieramy folder `Antywindykacja-Linux`
 
 ## Uruchomienie na MacOS
 * Otwieramy folder `Antywindykacja-MacOS`
