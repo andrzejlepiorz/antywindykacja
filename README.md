@@ -18,7 +18,7 @@
 ## O programie
 Ustawić opis programu.
 * Program korzysta z przeglądarki [Google Chrome](https://www.google.com/intl/en/chrome/)
-* Program działa prawidłowo tylko dla adresów IP Proxy HTTP
+* Program działa prawidłowo tylko dla adresów **IP Proxy HTTP**
 
 ## Wymagania
 * **Windows:** minimalną wersją systemu operacyjnego jest Windows 7 lub nowsza
