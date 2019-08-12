@@ -21,9 +21,9 @@ Ustawić opis programu.
 * Program działa prawidłowo tylko dla adresów IP Proxy HTTP
 
 ## Wymagania
-* **Windows:** minimalna wersja systemu operacyjnego to Windows 7 lub nowsze
+* **Windows:** minimalną wersją systemu operacyjnego jest Windows 7 lub nowsza
 * **Linux:** dla dystrybucji Ubuntu, CentOS, Debian, Fedora
-* **MacOS:** minimalna wersja systemu operacyjnego jest macOS 10.12 Sierra lub nowsze
+* **MacOS:** minimalną wersją systemu operacyjnego jest macOS 10.12 Sierra lub nowsza
 
 ## Konfiguracja
 Przed uruchomieniem programu powinniśmy sprawdzić czy jest on dobrze skonfigurowany. Bardzo ważne jest podanie godzin, w których program powinien działać oraz wpisanie odpowiedniej frazy do wyszukania w google i tytułu reklamy.
