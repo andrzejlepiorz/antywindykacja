@@ -15,7 +15,7 @@
 * Selenium 3.141.0
 
 ## O programie
-Program został stworzony, aby mógł klikać w reklamy przez określony czas. Aplikacja korzysta z danych, które sami wprowadzimy w pliku konfiguracyjnym (`SeleniumChrome.dll.config`), gdzie podajemy frazę do wyszukania, tytuł reklamy, adresy IP oraz godziny w których program ma działać. Dzięki tym informacjom dana reklama jest wyszukiwana w przeglądarce oraz załadowana. Program działa ciągle w podanych przez nas godzinach.
+Ustawić opis programu.
 * Program korzysta z przeglądarki [Google Chrome](https://www.google.com/intl/en/chrome/)
 * Program działa prawidłowo tylko dla adresów IP Proxy HTTP
 
