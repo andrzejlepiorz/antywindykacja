@@ -28,15 +28,15 @@ Ustawić opis programu.
 ## Konfiguracja
 Przed uruchomieniem programu powinniśmy sprawdzić czy jest on dobrze skonfigurowany. Bardzo ważne jest podanie godzin, w których program powinien działać oraz wpisanie odpowiedniej frazy do wyszukania w google i tytułu reklamy.
 Wszystko robimy w pliku o nazwie `SeleniumChrome.dll.config`
-* **Dodawanie frazy:** Wyszukujemy `<add key="Phrase" value=""/>`, gdzie w `value=""` podajemy naszą frazę.<br/>
+* **Dodawanie frazy:** Wyszukujemy *<add key="Phrase" value=""/>*, gdzie w *value=""* podajemy naszą frazę.<br/>
 Przykład: `<add key="Phrase" value="moja fraza"/>`
-* **Dodawanie tytułu:** Wyszukujemy `<add key="Title" value=""/>`, gdzie w `value=""` podajemy tytuł reklamy.<br/>
+* **Dodawanie tytułu:** Wyszukujemy *<add key="Title" value=""/>*, gdzie w *value=""* podajemy tytuł reklamy.<br/>
 Przykład: `<add key="Title" value="mój tytuł"/>`
-* **Ustawienie godziny od której działa program:** Wyszukujemy `<add key="HourFrom" value=""/>`, gdzie w `value=""` podajemy pełną godzinę. Należy pamiętać o poprawnym formacie godziny z przedziału 0-23.<br/>
+* **Ustawienie godziny od której działa program:** Wyszukujemy *<add key="HourFrom" value=""/>*, gdzie w *value=""* podajemy pełną godzinę. Należy pamiętać o poprawnym formacie godziny z przedziału 0-23.<br/>
 Przykład: `<add key="HourFrom" value="8"/>`
-* **Ustawienie godziny do której działa program:** Wyszukujemy `<add key="HourTo" value=""/>`, gdzie w `value=""` podajemy pełną godzinę. Należy pamiętać o poprawnym formacie godziny z przedziału 0-23.<br/>
+* **Ustawienie godziny do której działa program:** Wyszukujemy *<add key="HourTo" value=""/>*, gdzie w *value=""* podajemy pełną godzinę. Należy pamiętać o poprawnym formacie godziny z przedziału 0-23.<br/>
 Przykład: `<add key="HourTo" value="16"/>`
-* **Dodawanie adresów IP proxy HTTP:** Aby dodać adres IP to należy wpisać w sekcji <Addresses> `<add key="" value=""></add>`, gdzie w `key=""` wpisujemy nasz adres IP z proxy.<br/>
+* **Dodawanie adresów IP proxy HTTP:** Aby dodać adres IP to należy wpisać w sekcji <Addresses> *<add key="" value=""></add>*, gdzie w *key=""* wpisujemy nasz adres IP z proxy.<br/>
 Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 * Po dokonaniu zmian należy zapisać plik!
 
