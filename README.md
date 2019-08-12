@@ -44,7 +44,7 @@ Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 * Otwieramy folder `Antywindykacja-Windows`
 * Uruchamiamy `SeleniumChrome.exe` <br/>
 ![appWindows](images/appWindows.PNG) <br/>
-* W przypadku pojawienia się komunikatu `Program uruchomi się o godzinie` to aplikacja uruchomi się automatycznie o zadanej przez nas godzinie <br/>
+* W przypadku pojawienia się komunikatu *Program uruchomi się o godzinie* to aplikacja uruchomi się automatycznie o zadanej przez nas godzinie <br/>
 ![appBeforeRunTime](images/imgConsoleBeforeRunTime.PNG) <br/>
 
 ## Uruchomienie na Linux
