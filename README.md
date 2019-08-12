@@ -3,6 +3,7 @@
 ## Spis treści
 * [Technologie](#technologie)
 * [O programie](#o-programie)
+* [Wymagania](#wymagania)
 * [Konfiguracja](#konfiguracja)
 * [Uruchomienie na Windows](#uruchomienie-na-windows)
 * [Uruchomienie na Linux](#uruchomienie-na-linux)
@@ -18,6 +19,11 @@
 Ustawić opis programu.
 * Program korzysta z przeglądarki [Google Chrome](https://www.google.com/intl/en/chrome/)
 * Program działa prawidłowo tylko dla adresów IP Proxy HTTP
+
+## Wymagania
+* **Windows:** minimalna wersja systemu operacyjnego to Windows 7 lub nowsze
+* **Linux:** dla dystrybucji Ubuntu, CentOS, Debian, Fedora
+* **MacOS:** minimalna wersja systemu operacyjnego jest macOS 10.12 Sierra lub nowsze
 
 ## Konfiguracja
 Przed uruchomieniem programu powinniśmy sprawdzić czy jest on dobrze skonfigurowany. Bardzo ważne jest podanie godzin, w których program powinien działać oraz wpisanie odpowiedniej frazy do wyszukania w google i tytułu reklamy.
