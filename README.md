@@ -41,14 +41,18 @@ Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 * Po dokonaniu zmian należy zapisać plik!
 
 ## Uruchomienie na Windows
-* Otwieramy folder `Antywindykacja-Windows`
-* Uruchamiamy `SeleniumChrome.exe` <br/>
+* Otwieramy folder **Antywindykacja-Windows**
+* Uruchamiamy **SeleniumChrome.exe** <br/>
 ![appWindows](images/appWindows.PNG) <br/>
-* W przypadku pojawienia się komunikatu *Program uruchomi się o godzinie* to aplikacja uruchomi się automatycznie o zadanej przez nas godzinie <br/>
+* W przypadku pojawienia się komunikatu *Program uruchomi się o godzinie...* to aplikacja uruchomi się automatycznie o zadanej przez nas godzinie <br/>
 ![appBeforeRunTime](images/imgConsoleBeforeRunTime.PNG) <br/>
 
 ## Uruchomienie na Linux
-* Otwieramy folder `Antywindykacja-Linux`
+* Klikamy lewym przyciskiem myszy na folder **Antywindykacja-Linux**, tak aby był zaznaczony
+* Następnie klikamy prawym przyciskiem myszy na ten zaznaczony folder i rozwinie nam się menu
+* Wybieramy opcję **Open in Terminal**
+* Wpisujemy `chmod 777 ./SeleniumChrome` aby nadać uprawnienia
+* Uruchamiamy aplikację poleceniem `./SeleniumChrome`
 
 ## Uruchomienie na MacOS
 * Otwieramy folder `Antywindykacja-MacOS`
