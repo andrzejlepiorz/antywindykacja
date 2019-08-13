@@ -51,11 +51,11 @@ Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 * Klikamy lewym przyciskiem myszy na folder **Antywindykacja-Linux**, tak aby był zaznaczony
 * Następnie klikamy prawym przyciskiem myszy na ten zaznaczony folder i rozwinie nam się menu
 * Wybieramy opcję **Open in Terminal**
-* Wpisujemy `chmod 777 ./SeleniumChrome` aby nadać uprawnienia
+* W terminalu wpisujemy `chmod 777 ./SeleniumChrome` aby nadać uprawnienia
 * Uruchamiamy aplikację poleceniem `./SeleniumChrome`
 
 ## Uruchomienie na MacOS
-* Otwieramy folder `Antywindykacja-MacOS`
+* Klikamy lewym przyciskiem myszy na folder **Antywindykacja-MacOS**, tak aby był zaznaczony
 
 ## Działanie programu
 Po uruchomieniu program wybiera adres IP z podanych w pliku konfiguracyjnym (`SeleniumChrome.dll.config`) na podstawie którego łączy się z przeglądarką. Następnie zostaje uruchomiony Google Chrome i jest wczytana strona google.pl <br/> 
