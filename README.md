@@ -41,6 +41,7 @@ Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 * Po dokonaniu zmian należy zapisać plik!
 
 ## Uruchomienie na Windows
+* Aby program działał poprawnie musimy zainstalować [.NET Core 2.2 SDK](https://dotnet.microsoft.com/download/dotnet-core/2.2)
 * Otwieramy folder **Antywindykacja-Windows**
 * Uruchamiamy **SeleniumChrome.exe** <br/>
 ![appWindows](images/appWindows.PNG) <br/>
