@@ -51,7 +51,7 @@ Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 * Klikamy lewym przyciskiem myszy na folder **Antywindykacja-Linux**, tak aby był zaznaczony <br/>
 ![linuxFolderSelected](images/linuxFolderSelected.jpg) <br/>
 * Następnie klikamy prawym przyciskiem myszy na ten zaznaczony folder i rozwinie nam się menu <br/>
-![linuxFolderMenu](images/linuxFolderMenu.jpg) <br/>
+![linuxFolderMenu](images/linuxFolderMenu1.jpg) <br/>
 * Wybieramy opcję **Open in Terminal** <br/>
 ![linuxOpenTerminal](images/linuxOpenTerminal.jpg) <br/>
 * **Tylko przed pierwszym uruchomieniem** - W terminalu wpisujemy `chmod 777 ./SeleniumChrome` aby nadać uprawnienia <br/>
