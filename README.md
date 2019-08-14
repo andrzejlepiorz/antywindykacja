@@ -48,6 +48,7 @@ Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 ![appBeforeRunTime](images/imgConsoleBeforeRunTime.PNG) <br/>
 
 ## Uruchomienie na Linux
+* Aby program działał poprawnie musimy zainstalować [.NET Core 2.2 SDK](https://dotnet.microsoft.com/download/linux-package-manager/ubuntu18-04/sdk-2.2.102)
 * Klikamy lewym przyciskiem myszy na folder **Antywindykacja-Linux**, tak aby był zaznaczony <br/>
 ![linuxFolderSelected](images/linuxFolderSelected.jpg) <br/>
 * Następnie klikamy prawym przyciskiem myszy na ten zaznaczony folder i rozwinie nam się menu <br/>
