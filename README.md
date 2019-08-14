@@ -62,6 +62,7 @@ Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 ![linuxRunApp](images/linuxRunApp.jpg) <br/>
 
 ## Uruchomienie na MacOS
+* Aby program działał poprawnie musimy zainstalować [.NET Core 2.2 SDK](https://dotnet.microsoft.com/download/dotnet-core/2.2)
 * Klikamy lewym przyciskiem myszy na folder **Antywindykacja-MacOS**, tak aby był zaznaczony
 
 ## Działanie programu
