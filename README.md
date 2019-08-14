@@ -48,11 +48,16 @@ Przykład: `<add key="192.166.219.46:3128" value=""></add>`
 ![appBeforeRunTime](images/imgConsoleBeforeRunTime.PNG) <br/>
 
 ## Uruchomienie na Linux
-* Klikamy lewym przyciskiem myszy na folder **Antywindykacja-Linux**, tak aby był zaznaczony
-* Następnie klikamy prawym przyciskiem myszy na ten zaznaczony folder i rozwinie nam się menu
-* Wybieramy opcję **Open in Terminal**
-* W terminalu wpisujemy `chmod 777 ./SeleniumChrome` aby nadać uprawnienia
-* Uruchamiamy aplikację poleceniem `./SeleniumChrome`
+* Klikamy lewym przyciskiem myszy na folder **Antywindykacja-Linux**, tak aby był zaznaczony <br/>
+![linuxFolderSelected](images/linuxFolderSelected.jpg) <br/>
+* Następnie klikamy prawym przyciskiem myszy na ten zaznaczony folder i rozwinie nam się menu <br/>
+![linuxFolderMenu](images/linuxFolderMenu.jpg) <br/>
+* Wybieramy opcję **Open in Terminal** <br/>
+![linuxOpenTerminal](images/linuxOpenTerminal.jpg) <br/>
+* **Tylko przed pierwszym uruchomieniem** W terminalu wpisujemy `chmod 777 ./SeleniumChrome` aby nadać uprawnienia <br/>
+![linuxChmod](images/linuxChmod.jpg) <br/>
+* Uruchamiamy aplikację poleceniem `./SeleniumChrome` <br/>
+![linuxRunApp](images/linuxRunApp.jpg) <br/>
 
 ## Uruchomienie na MacOS
 * Klikamy lewym przyciskiem myszy na folder **Antywindykacja-MacOS**, tak aby był zaznaczony
